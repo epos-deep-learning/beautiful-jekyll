@@ -23,7 +23,7 @@ navbar-links:
   Program: "program"
   Registration: "registration"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Codecademy: "https://www.codecademy.com/learn/learn-python"
     - Learn markdown: "http://www.markdowntutorial.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -38,7 +38,7 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#ADFF2F"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
