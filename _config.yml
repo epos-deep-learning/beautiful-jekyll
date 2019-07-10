@@ -23,8 +23,9 @@ navbar-links:
   Program: "program"
   Registration: "registration"
   Resources:
-    - Codecademy: "https://www.codecademy.com/learn/learn-python"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Codecademy: "https://www.codecademy.com/learn/learn-python/"
+
+# -Learn markdown: "http://www.markdowntutorial.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -38,7 +39,7 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ADFF2F"
+navbar-col: "#3CB371"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -141,7 +142,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 500
+excerpt_length: 5000
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
