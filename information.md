@@ -1,5 +1,3 @@
-# Epos Deep Learning in Psychology Autumn School 
-
 
 **When**: 1-4 October 2019
 
