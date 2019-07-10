@@ -4,4 +4,4 @@ The registration fee for non-EPOS members is 250 euro for the first three days a
 You can register for this course **before the 1st of September 2019** using the link below:
 
 
-[Register here!](https://forms.gle/8Kp31x7BqQ2KX9YX7)
+[Click here to register](https://forms.gle/8Kp31x7BqQ2KX9YX7)
