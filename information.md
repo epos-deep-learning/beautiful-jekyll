@@ -1,6 +1,11 @@
-##Epos Deep Learning in Psychology Autumn School 
-(1-4 october 2019)
-**Venue**: University of Amsterdam
+# Epos Deep Learning in Psychology Autumn School 
+
+
+**When**: 1-4 October 2019
+
+
+**Where**: University of Amsterdam
+
 
 **Organizers**: H.Steven Scholte, Sander Bohte, Noor Seijdel, Lynn Sörensen, Jessica Loke, Juriaan Schreuder
 
