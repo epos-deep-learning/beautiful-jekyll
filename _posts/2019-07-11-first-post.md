@@ -1,6 +1,5 @@
 ---
-layout: base
-title: EPOS Autumn School - Deep Learning in Psychology 
+layout: page
 
 ---
 
