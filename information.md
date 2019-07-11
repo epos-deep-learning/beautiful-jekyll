@@ -1,7 +1,9 @@
+---
+layout: page
+title: Practical information
 
-------
+---
 
-## Practical Information
 
 ### Getting there
 

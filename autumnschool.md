@@ -1,5 +1,8 @@
+---
+layout: page
+title: Autumn School
 
-------
+---
 
 
 **When:**  1-4 October 2019
