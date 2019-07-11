@@ -1,28 +1,21 @@
-## Deep Learning in Psychology
-### EPOS Autumn School 2019
+## Practical information
+
 ------
 
 
+### Getting there
 
-**When**: 1-4 October 2019
+**Schiphol airport – Amsterdam Central Station**
+
+To get to Amsterdam Central Station from Schiphol airport, the easiest way is to take a train. Trains depart from Schiphol to Central Station every 10-15 minutes. The train trip takes ~19 minutes.
+
+**Amsterdam Central Station – Autumn School location**
+
+The Autumn School will be hosted at the Roeterseiland Campus in Amsterdam:
+[![RoeterseilandCampus](/_imgs/maprec.png)](https://www.google.com/maps/place/Roeterseiland+Campus/@52.363313,4.9097836,17z/data=!3m1!4b1!4m5!3m4!1s0x47c60998ffb76569:0x42b058cd42580a78!8m2!3d52.3633097!4d4.9119723)
 
 
-**Where**: University of Amsterdam
 
-
-**Organizers**: H.Steven Scholte, Sander Bohte, Noor Seijdel, Lynn Sörensen, Jessica Loke and Juriaan Schreuder
-
-*Speakers include*: Radek Cichy, Kate Storrs, Tim Kietzmann and Marcel van Gerven 
-
-
-This year the EPOS graduate school meeting will focus on deep learning in psychology. 
-In the first 3 days you will receive a theoretical background, and hands-on practical assignments in neural networks and more specifically convolutional en recurrent neural networks. Each day consists of two hours of lectures and discussion and 5 hours of lab and practical assignments. 
-
-Topics that will be covered are; general concepts in AI and neural networks, training such networks with back-propagation, Deep Convolutional Neural Networks (DCNNs) and Recurrent Neural Networks (RNNs). How these can be trained, how data-sets used for training influences performance, how to relate activity in artificial neural networks to neural data, and how to relate the behavior of these networks to human behavior.
-
-On the fourth day there will be a symposium with (international) experts in the field focussing on current developments in cognitive computational neuroscience and AI. 
-
-EPOS students can participate for free, other people can participate in the course after acceptance. The registration fee for non-EPOS members is 250 euro for the first three days and 50 euro for the symposium (lunch will be provided on all days). 
-
-Students will use Colab and Python for all assignments. Prior knowledge in Python is required, or should be obtained before starting the course via material that will be provided (see "resources")
+### Questions
+For questions and information regarding the Autumn School and the Symposium, please contact us at <eposdeeplearning@gmail.com> 
 
