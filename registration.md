@@ -1,3 +1,6 @@
+
+------
+
 EPOS students can participate for free, other people can participate in the course after acceptance. 
 The registration fee for non-EPOS members is 250 euro for the first three days and 50 euro for the symposium (lunch will be provided on all days).
 

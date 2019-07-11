@@ -1,5 +1,4 @@
-## Deep Learning in Psychology
-### EPOS Autumn School 2019
+
 ------
 
 

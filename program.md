@@ -1,4 +1,3 @@
-## Preliminary program
 
 ------
 
