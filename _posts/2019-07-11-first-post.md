@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Epos Deep Learning in Psychology Autumn School 
+title: EPOS Autumn School - Deep Learning in Psychology 
 
 ---
-
 
 
 
@@ -27,8 +26,10 @@ On the fourth, and final, day there will be a symposium with (international) exp
 
 EPOS students can participate for free, other people can participate in the course after acceptance. The registration fee for non-EPOS members is 250 euro for the first three days and 50 euro for the symposium (lunch will be provided on all days). 
 
-Students will use Colab and Python for all assignments. Prior knowledge in python is required, or should be obtained before starting the course via material that will be provided.
+Students will use Colab and Python for all assignments. Prior knowledge in Python is required, or should be obtained before starting the course via material that will be provided (see "resources").
 
-You can register for this course before the 1st of september using the link below:
-[Register here](https://forms.gle/8Kp31x7BqQ2KX9YX7)
+You can register for this course before the 1st of September using the link below:
+
+
+[Click here to register](https://forms.gle/8Kp31x7BqQ2KX9YX7)
 
