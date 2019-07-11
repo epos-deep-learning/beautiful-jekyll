@@ -20,8 +20,10 @@ description: Deep Learning
 
 # List of links in the navigation bar
 navbar-links:
-  Information: "information"
+  Autumn School: "autumnschool"
   Program: "program"
+  Symposium: "symposium"
+  Practical information: "information"
   Registration: "registration"
   Resources:
     - Codecademy: "https://www.codecademy.com/learn/learn-python/"
