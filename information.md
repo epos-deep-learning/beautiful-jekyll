@@ -1,5 +1,6 @@
 ## Deep Learning in Psychology
-# Epos Autumn School
+### EPOS Autumn School 2019
+------
 
 
 
@@ -9,9 +10,9 @@
 **Where**: University of Amsterdam
 
 
-**Organizers**: H.Steven Scholte, Sander Bohte, Noor Seijdel, Lynn Sörensen, Jessica Loke, Juriaan Schreuder
+**Organizers**: H.Steven Scholte, Sander Bohte, Noor Seijdel, Lynn Sörensen, Jessica Loke and Juriaan Schreuder
 
-*Speakers include*: Radek Cichy, Kate Storrs, Tim Kietzmann, Marcel van Gerven. 
+*Speakers include*: Radek Cichy, Kate Storrs, Tim Kietzmann and Marcel van Gerven 
 
 
 This year the EPOS graduate school meeting will focus on deep learning in psychology. 
@@ -23,5 +24,5 @@ On the fourth day there will be a symposium with (international) experts in the 
 
 EPOS students can participate for free, other people can participate in the course after acceptance. The registration fee for non-EPOS members is 250 euro for the first three days and 50 euro for the symposium (lunch will be provided on all days). 
 
-Students will use Colab and Python for all assignments. Prior knowledge in Python is required, or should be obtained before starting the course via material that will be provided (see "Resources")
+Students will use Colab and Python for all assignments. Prior knowledge in Python is required, or should be obtained before starting the course via material that will be provided (see "resources")
 
