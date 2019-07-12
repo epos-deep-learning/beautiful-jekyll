@@ -7,14 +7,14 @@ title: Practical information
 
 ### Getting there
 
-**Schiphol airport – Amsterdam Central Station**
-
-To get to Amsterdam Central Station from Schiphol airport, the easiest way is to take a train. Trains depart from Schiphol to Central Station every 10-15 minutes. The train trip takes ~19 minutes.
-
 **Amsterdam Central Station – Autumn School location**
 
 The Autumn School will be hosted at the Roeterseiland Campus in Amsterdam:
-[![RoeterseilandCampus](/imgs/maprec.png)](https://www.google.com/maps/place/Roeterseiland+Campus/@52.363313,4.9097836,17z/data=!3m1!4b1!4m5!3m4!1s0x47c60998ffb76569:0x42b058cd42580a78!8m2!3d52.3633097!4d4.9119723)
+[![RoeterseilandCampus](/imgs/mapREC.png)](https://www.google.com/maps/place/Roeterseiland+Campus/@52.363313,4.9097836,17z/data=!3m1!4b1!4m5!3m4!1s0x47c60998ffb76569:0x42b058cd42580a78!8m2!3d52.3633097!4d4.9119723)
+
+The Symposium will take place at a different venue, details will follow later.
+
+### Where to stay
 
 
 
