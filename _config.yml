@@ -11,7 +11,7 @@ description: Deep Learning
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://eposdeeplearning.scholtelab.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -27,6 +27,7 @@ navbar-links:
   Registration: "registration"
   Resources:
     - Codecademy: "https://www.codecademy.com/learn/learn-python/"
+    - Keras: https://keras.io/
 
 # -Learn markdown: "http://www.markdowntutorial.com/"
 

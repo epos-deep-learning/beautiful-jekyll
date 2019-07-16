@@ -10,12 +10,12 @@ title: Program
 
 *Morning* 
 
-Introduction to neural Networks
+Introduction to Neural Networks
 Lecture & Lab
 
 *Afternoon* 
 
-Deep Neural networks and their relevance for psychology
+Deep Neural Networks and their relevance for psychology
 Lecture & Lab
 
 ### Day 2
@@ -27,15 +27,17 @@ Lecture & Lab
 
 *Afternoon* 
 
-Relating neural networks to neural data
+Informative AI, analysing network behavior 
 Lecture & Lab
+
 
 ### Day 3 
 
 *Morning* 
 
-Informative AI, analysing network behavior 
+Relating neural networks to neural data
 Lecture & Lab
+
 
 *Afternoon*
 
@@ -44,4 +46,4 @@ Lecture & Lab
 
 ### Day 4
 
-Symposium
+Symposium 
