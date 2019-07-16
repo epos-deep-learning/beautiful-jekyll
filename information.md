@@ -19,20 +19,24 @@ There are many options, please see below for some ho(s)tel recommendations.
 
 #### Hostels
 
-Ecomama
+**Ecomama**
+
 Valkenburgerstraat 124
 Phone: +31207709529
 E-mail: hello@ecomamahotel.com
 [Website](http://www.ecomamahotel.com/)
 
 
-Generator Amsterdam
+**Generator Amsterdam**
+
 Mauritskade 57
 Phone: +31207085600
 Contact form: [see here](https://staygenerator.com/information/contact-us)
 [Website](https://staygenerator.com/destinations/amsterdam?utm_source=google-my-business&utm_medium=organic&utm_campaign=hostel-Amsterdam)
 
-Stayokay Hostel
+
+**Stayokay Hostel**
+
 At various locations in Amsterdam
 Phone: +31206246832 (Amsterdam Stadsdoelen), +31205898996 (Amsterdam Vondelpark), or +31205513190 (Amsterdam Zeeburg)
 E-mail: stadsdoelen@stayokay.com, vondelpark@stayokay.com, or zeeburg@stayokay.com
