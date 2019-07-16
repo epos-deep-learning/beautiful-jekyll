@@ -48,6 +48,7 @@ navbar-links:
   Registration: "registration"
   Resources:
     - Codecademy: "https://www.codecademy.com/learn/learn-python/"
+    - Keras: "https://keras.io/"
 
 # -Learn markdown: "http://www.markdowntutorial.com/"
 
