@@ -8,10 +8,17 @@
 	  {% assign imgnum = forloop.index %}
 	  {% for imginfo in bigimg %}
 	    {% if imginfo[0] %}
+<<<<<<< HEAD
 		  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
 		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
 		{% else %}
 		  data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
+=======
+		  data-img-src-{{ imgnum }}="{{ imginfo[0] | relative_url }}"
+		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+		{% else %}
+		  data-img-src-{{ imgnum }}="{{ imginfo | relative_url }}"
+>>>>>>> master
 		{% endif %}
 	  {% endfor %}
     {% endfor %}
@@ -73,4 +80,8 @@
 
 {% else %}
 <div class="intro-header"></div>
+<<<<<<< HEAD
 {% endif %}
+=======
+{% endif %}
+>>>>>>> master

@@ -4,10 +4,17 @@ common-css:
   - "/css/bootstrap-social.css"
   - "/css/main.css"
 common-ext-css:
+<<<<<<< HEAD
   - "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
 common-googlefonts:
   - "Lora:400,700,400italic,700italic"
   - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+=======
+  - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
+common-googlefonts:
+  - "Open+Sans:300,600,300italic,600italic"
+  - "Open+Sans:200italic,300italic,400italic,500italic,600italic,200,300,400,500,600"
+>>>>>>> master
 common-js:
   - "/js/jquery-1.11.2.min.js"
   - "/js/bootstrap.min.js"
@@ -16,10 +23,19 @@ common-js:
 
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
   
   {% include head.html %}
 
   <body>
+=======
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  {% include head.html %}
+
+  <body>
+
+    {% include gtm_body.html %}
+>>>>>>> master
   
     {% include nav.html %}
 

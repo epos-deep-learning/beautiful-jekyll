@@ -1,18 +1,22 @@
 {% if layout.common-ext-js %}
   {% for js in layout.common-ext-js %}
+<<<<<<< HEAD
 	<script src="{{ js }}"></script>
+=======
+    {% include ext-js.html js=js %}
+>>>>>>> master
   {% endfor %}
 {% endif %}
 
 {% if page.ext-js %}
   {% for js in page.ext-js %}
-	<script src="{{ js }}"></script>
+    {% include ext-js.html js=js %}
   {% endfor %}
 {% endif %}
 
 {% if page.js %}
   {% for js in page.js %}
-	<script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
+    <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
 
@@ -22,6 +26,7 @@
     {% if js contains 'jquery' %}
       <script>
       	if (typeof jQuery == 'undefined') {
+<<<<<<< HEAD
       	  document.write('<script src="{{ js | prepend: site.baseurl | replace: "//", "/" }}"></scr' + 'ipt>');
       	}
       </script>
@@ -32,3 +37,13 @@
 {% endif %}
 
 {% include google_analytics.html %}
+=======
+          document.write('<script src="{{ js | relative_url }}"></scr' + 'ipt>');
+      	}
+      </script>
+    {% else %}
+      <script src="{{ js | relative_url }}"></script>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+>>>>>>> master
