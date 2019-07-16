@@ -16,26 +16,6 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-<<<<<<< HEAD
-      {% for link in site.navbar-links %}
-        {% if link[1].first %}
-          <li class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {% for childlink in link[1] %}
-                {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %}
-                {% endfor %}
-              {% endfor %}
-            </div>
-          </li>
-        {% else %}
-          <li>
-            {% include navbarlink.html link=link %}
-          </li>
-        {% endif %}
-        {% endfor %}
-=======
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="navlinks-container">
@@ -43,11 +23,7 @@
             <div class="navlinks-children">
               {%- for childlink in link[1] -%}
               {%- for linkparts in childlink %}
-<<<<<<< HEAD
-              <a href="{{ linkparts[1] | relative_url }}"{% if linkparts[1] contains 'https://' %}target="_blank"{% endif %}>{{ linkparts[0] }}</a>
-=======
-              <a href="{{ linkparts[1] | relative_url }}">{% if linkparts[1] contains '.pdf' %}target="_blank"{% endif %}{{ linkparts[0] }}</a>
->>>>>>> 5b5853b554e2663713db3e2ba61047a88edc8270
+              <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
               {%- endfor -%}
               {%- endfor %}
             </div>
@@ -56,7 +32,6 @@
           <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
         {%- endif -%}
       {%- endfor -%}
->>>>>>> master
       </ul>
     </div>
 
@@ -79,8 +54,4 @@
 	{% endif %}
 
   </div>
-<<<<<<< HEAD
-</nav>  
-=======
 </nav>
->>>>>>> master
