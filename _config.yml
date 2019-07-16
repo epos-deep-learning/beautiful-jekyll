@@ -1,5 +1,6 @@
 # --- General options --- #
 
+
 # Name of website
 title: EPOS Autumn School 2019
 
@@ -14,7 +15,7 @@ description: Deep Learning
 url: "https://eposdeeplearning.scholtelab.io"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -72,7 +73,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  #rss: true
   email: "eposdeeplearning@gmail.com"
 #  reddit: yourname
 #  linkedin: daattali
@@ -103,7 +104,7 @@ url-pretty: "eposdeeplearning.scholtelab.io"  # eg. "deanattali.com/beautiful-je
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-59820529-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -172,6 +173,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
@@ -179,6 +181,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
+
       show-avatar: true
 
 # Use tags index page and make tags on each post clickable
