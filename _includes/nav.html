@@ -23,7 +23,7 @@
             <div class="navlinks-children">
               {%- for childlink in link[1] -%}
               {%- for linkparts in childlink %}
-              <a href="{{ linkparts[1] | relative_url }}"target="_blank">{{ linkparts[0] }}</a>
+              <a href="{{ linkparts[1] | relative_url }}"{% if linkparts[1] contains 'https://' %}target="_blank"{% endif %}>{{ linkparts[0] }}</a>
               {%- endfor -%}
               {%- endfor %}
             </div>
