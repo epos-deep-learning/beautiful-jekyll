@@ -5,7 +5,7 @@
 title: EPOS Autumn School 2019
 
 # Short description of your site
-description: Deep Learning 
+description: Welcome! The EPOS autumn school on Deep learning in Psychology will take place from 1 - 4 October 2019 at University of Amsterdam. The autumn school will be followed by a symposium on 'Current developments in cognitive computational neuroscience and AI', which is open to a more general audience.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -67,7 +67,7 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: ScholteLab
-  
+
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.

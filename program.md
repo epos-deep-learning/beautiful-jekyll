@@ -3,47 +3,33 @@ layout: page
 title: Program
 
 ---
-------
 
+####This is a preliminary overview of the autumn school program. All segments include a lecture and a corresponding lab.
 
-### Day 1 
+### Day 1
 
-*Morning* 
-
+*Morning*
 Introduction to Neural Networks
-Lecture & Lab
 
-*Afternoon* 
-
+*Afternoon*
 Deep Neural Networks and their relevance for psychology
-Lecture & Lab
 
 ### Day 2
 
-*Morning* 
-
-Training convolutional Deep Neural Networks (data-sets, training and fine-tuning, effects of data-set curation) 
-Lecture & Lab
-
-*Afternoon* 
-
-Informative AI, analysing network behavior 
-Lecture & Lab
-
-
-### Day 3 
-
-*Morning* 
-
-Relating neural networks to neural data
-Lecture & Lab
-
+*Morning*
+Training convolutional Deep Neural Networks (data-sets, training and fine-tuning, effects of data-set curation)
 
 *Afternoon*
+Informative AI, analysing network behavior
 
-Recurrent Neural Networks 
-Lecture & Lab
+### Day 3
+
+*Morning*
+Relating neural networks to neural data
+
+*Afternoon*
+Recurrent Neural Networks
 
 ### Day 4
 
-Symposium 
+Symposium on current developments in cognitive computational neuroscience and AI
