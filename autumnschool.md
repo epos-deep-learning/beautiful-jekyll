@@ -5,11 +5,7 @@ title: Autumn School
 ---
 
 
-**When:**  1-4 October 2019
-
-
-**Where:** University of Amsterdam
-
+**1-4 October 2019 at the University of Amsterdam**
 
 This year the EPOS graduate school meeting will focus on deep learning in psychology.
 In the first 3 days you will receive a theoretical background, and hands-on practical assignments in neural networks (more specifically, deep convolutional neural networks and recurrent neural networks).
