@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Symposium
-subtitle: Current developments in cognitive computational neuroscience and AI. 9:00 - 15:30 on October 4th, Bushuis, Kloveniersburgwal 48, 1012 CX Amsterdam.
+subtitle: Current developments in cognitive computational neuroscience and AI.
 ---
+
+**9:00 - 15:30 on October 4th
+Bushuis, Kloveniersburgwal 48, 1012 CX Amsterdam.**
 
 
 Following the Autumn School, there will be a symposium with (international) experts in the field focussing on current developments in cognitive computational neuroscience and AI. We are happy to announce the following speakers:
