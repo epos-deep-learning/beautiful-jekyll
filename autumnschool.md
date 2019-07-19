@@ -29,8 +29,7 @@ Students will use Colab and Python for all assignments. Prior knowledge in Pytho
 
 ### Registration
 
-You can register for this course *before the 1st of September* using the link below:
-
+You can register for this course *before the 1st of September* using the link below:  
 [Register here](https://forms.gle/8Kp31x7BqQ2KX9YX7)
 
 ### Organization
