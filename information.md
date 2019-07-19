@@ -17,8 +17,6 @@ The symposium will take place at a different venue, details will follow later.
 ### Places to stay
 There are many options, please see below for some ho(s)tel recommendations.  
 
-#### Hostels
-
 **Ecomama** <br>
 Valkenburgerstraat 124 <br>
 Phone: +31207709529 <br>
@@ -41,5 +39,4 @@ E-mail: stadsdoelen@stayokay.com, vondelpark@stayokay.com, or zeeburg@stayokay.c
 
 
 ### Questions
-For questions and information regarding the Autumn School and the symposium, please contact us at <eposdeeplearning@gmail.com> 
-
+For questions and information regarding the Autumn School and the symposium, please contact us at <eposdeeplearning@gmail.com>

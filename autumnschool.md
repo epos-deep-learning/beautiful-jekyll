@@ -21,7 +21,6 @@ Topics that will be covered, in both the lectures and the labs/practical assignm
 
 Following the Autumn School there will be a symposium with (international) experts in the field focussing on current developments in cognitive computational neuroscience and AI. For EPOS members, entrance to the symposium will be included in the programme of the Autumn School, and they are not required to register for the symposium separately. Other visitors can register for the symposium using the normal registration form. It's possible to sign up for the symposium after the 1st of September 2019.
 
-
 ### Costs
 
 EPOS students can participate for free, other people can participate in the course after acceptance (see 'registration'). The registration fee for non-EPOS members is €250,- for the first three days and/or €50,- for the symposium (including coffee breaks, lunch and drinks at the end of the symposium). Lunch will be provided on all days.
@@ -33,6 +32,14 @@ Students will use Colab and Python for all assignments. Prior knowledge in Pytho
 You can register for this course *before the 1st of September* using the link below:
 
 [Register here](https://forms.gle/8Kp31x7BqQ2KX9YX7)
+
+### Organization
+* H.Steven Scholte
+* Sander Bohte
+* Noor Seijdel
+* Lynn Sörensen
+* Jessica Loke
+* Jurriaan Schreuder  
 
 ### Contact
 For questions and information regarding the Autumn School and the Symposium, please contact us at <eposdeeplearning@gmail.com>
