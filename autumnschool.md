@@ -36,3 +36,7 @@ You can register for this course *before the 1st of September* using the link be
 
 ### Contact
 For questions and information regarding the Autumn School and the Symposium, please contact us at <eposdeeplearning@gmail.com>
+
+
+![alt text](/imgs/UvA-Rechtsgeleerdheid-2017-high-res-4500px-Maartje-Strijbis-7741.jpg)
+**Photo by Maartje Strijbis**
