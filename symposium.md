@@ -10,11 +10,11 @@ Bushuis, Kloveniersburgwal 48, 1012 CX Amsterdam.**
 
 Following the Autumn School, there will be a symposium with (international) experts in the field focussing on current developments in cognitive computational neuroscience and AI. We are happy to announce the following speakers:
 
-* Radek M. Cichy - Freie Universität Berlin
+* Radek M. Cichy - Freie Universität Berlin - *Deep neural networks as scientific models*
 * Sander M. Bohté - National Research Institute for Mathematics and Computer Science (CWI), University of Amsterdam
-* Kate Storrs - Justus-Liebig Universität Giessen
-* Tim C. Kietzmann - MRC Cognition and Brain Sciences Unit, University of Cambridge, Donders Institute for Brain, Cognition & Behavior
-* Marcel van Gerven, Donders Institute for Brain, Cognition & Behavior, Radboud University Nijmegen
+* Kate Storrs - Justus-Liebig Universität Giessen - *Unsupervised Learning of Object Material and Shape from Images and Videos*
+* Tim C. Kietzmann - MRC Cognition and Brain Sciences Unit, University of Cambridge, Donders Institute for Brain, Cognition & Behavior - *From pixels to semantics – using deep learning to generate insight into neural computations*
+* Marcel van Gerven, Donders Institute for Brain, Cognition & Behavior, Radboud University Nijmegen - *Building Artificial Cognitive Systems*
 
 
 
