@@ -23,7 +23,7 @@ Following the Autumn School there will be a symposium with (international) exper
 
 ### Costs
 
-EPOS students can participate for free, other people can participate in the course after acceptance (see 'registration'). The registration fee for non-EPOS members is €250,- for the first three days and/or €50,- for the symposium (including coffee breaks, lunch and drinks at the end of the symposium). Lunch will be provided on all days.
+EPOS students can participate for free, other people can participate in the course after acceptance (see 'registration'). The registration fee for non-EPOS members is €250,- for the first three days (lunch will be provided on all days). The symposium is free of charge.
 
 Students will use Colab and Python for all assignments. Prior knowledge in Python is required, or should be obtained before starting the course via material that will be provided (also see 'resources').
 

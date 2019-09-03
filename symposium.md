@@ -19,8 +19,7 @@ Following the Autumn School, there will be a symposium with (international) expe
 
 
 For EPOS members, entrance to the symposium will be included in the programme of the Autumn School, and they are not required to register for the symposium separately. Other visitors can register for the symposium using the normal registration form. It's possible to sign up for the symposium after the 1st of September 2019.
-Registration for the symposium costs €50,- (including coffee breaks, lunch and drinks at the end of the symposium).
-
+The symposium is free of charge, and will be followed by drinks.
 
 ![alt text](/imgs/UvA - Communicatie - gebouwen - Wouter van der Wolk.jpg)
 **Photo by Wouter van der Wolk**
