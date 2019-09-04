@@ -19,7 +19,7 @@ Topics that will be covered, in both the lectures and the labs/practical assignm
 * how activity in artificial neural networks can be related to neural data, and
 * how to relate the behavior of these networks to human behavior.
 
-Following the Autumn School there will be a symposium with (international) experts in the field focussing on current developments in cognitive computational neuroscience and AI. For EPOS members, entrance to the symposium will be included in the programme of the Autumn School, and they are not required to register for the symposium separately. Other visitors can register for the symposium using the normal registration form. It's possible to sign up for the symposium after the 1st of September 2019.
+Following the Autumn School there will be a symposium with (international) experts in the field focussing on current developments in cognitive computational neuroscience and AI. For EPOS members, entrance to the symposium will be included in the programme of the Autumn School, and they are not required to register for the symposium separately. Other visitors can register for the symposium using the normal registration form. It's possible to sign up for the symposium after the 20th of September 2019.
 
 ### Costs
 
