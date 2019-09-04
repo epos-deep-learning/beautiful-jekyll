@@ -6,7 +6,7 @@ title: Registration
 
 EPOS students can participate for free, other people can participate in the course after acceptance. The registration fee for non-EPOS members is €250,- for the first three days (lunch will be provided on all days). *The symposium is free of charge.*
 
-You can register for the Autumn School **before the 1st of September 2019**, and for the symposium using the link below:
+**Deadline extension:** You can register for the Autumn School **before the 20th of September 2019** using the link below. For the symposium, registration is mandatory but possible also after the 20th of September using the same link below:
 
 
 [Click here to register](https://forms.gle/8Kp31x7BqQ2KX9YX7)
