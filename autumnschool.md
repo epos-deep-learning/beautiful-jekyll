@@ -29,7 +29,8 @@ Students will use Colab and Python for all assignments. Prior knowledge in Pytho
 
 ### Registration
 
-**Deadline extension:** You can register for this course *before the 20th of September* using the link below:  
+**The maximum number of participants for the Autumn School has been reached**. It is unfortunately not possible anymore to register for the Autumn School.
+For the symposium, you can (and should) still register using the following link:
 [Register here](https://forms.gle/8Kp31x7BqQ2KX9YX7)
 
 ### Organization
