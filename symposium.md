@@ -15,6 +15,7 @@ Following the Autumn School, there will be a symposium with (international) expe
 * Kate Storrs - Justus-Liebig Universität Giessen - *Unsupervised Learning of Object Material and Shape from Images and Videos*
 * Tim C. Kietzmann - MRC Cognition and Brain Sciences Unit, University of Cambridge, Donders Institute for Brain, Cognition & Behavior - *From pixels to semantics – using deep learning to generate insight into neural computations*
 * Marcel van Gerven, Donders Institute for Brain, Cognition & Behavior, Radboud University Nijmegen - *Building Artificial Cognitive Systems*
+* Noor Seijdel, University of Amsterdam - *DNImals: implicit scene segmentation in deeper convolutional neural networks* 
 
 
 
