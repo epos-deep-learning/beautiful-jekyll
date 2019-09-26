@@ -15,12 +15,13 @@ Following the Autumn School, there will be a symposium with (international) expe
 * Kate Storrs - Justus-Liebig Universität Giessen - *Unsupervised Learning of Object Material and Shape from Images and Videos*
 * Tim C. Kietzmann - MRC Cognition and Brain Sciences Unit, University of Cambridge, Donders Institute for Brain, Cognition & Behavior - *From pixels to semantics – using deep learning to generate insight into neural computations*
 * Marcel van Gerven, Donders Institute for Brain, Cognition & Behavior, Radboud University Nijmegen - *Building Artificial Cognitive Systems*
-* Noor Seijdel, University of Amsterdam - *DNImals: implicit scene segmentation in deeper convolutional neural networks* 
+* Noor Seijdel, University of Amsterdam - *DNImals: implicit scene segmentation in deeper convolutional neural networks*
 
 
 
-For EPOS members, entrance to the symposium will be included in the programme of the Autumn School, and they are not required to register for the symposium separately. Other visitors can register for the symposium using the normal registration form. It's possible to sign up for the symposium after the 20th of September 2019.
-The symposium is free of charge, and will be followed by drinks.
+For EPOS members, entrance to the symposium will be included in the programme of the Autumn School, and they are not required to register for the symposium separately. Other visitors can register for the symposium using the normal registration form. The symposium is free of charge, and will be followed by drinks.
+
+**Update: the maximum number of participants for the Symposium has been reached**. It is unfortunately not possible to register anymore.  
 
 ![alt text](/imgs/UvA - Communicatie - gebouwen - Wouter van der Wolk.jpg)
 **Photo by Wouter van der Wolk**
