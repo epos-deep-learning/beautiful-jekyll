@@ -9,24 +9,24 @@ title: Program
 
 **Day 1**  
 *Morning*  
-Introduction to Neural Networks
+Deep learning and its relevance for psychology & components of neural networks. 
 
 *Afternoon*  
-Deep Neural Networks and their relevance for psychology
+Training of Deep Convolutional Neural Networks & Transfer learning
 
 **Day 2**  
 *Morning*  
-Training Deep Convolutional Neural Networks (data-sets, training and fine-tuning, effects of data-set curation)
+Relating neural networks to behavior
 
 *Afternoon*  
-Informative AI, analysing network behavior
+Relating neural networks to neural data.
 
 **Day 3**  
 *Morning*  
-Relating neural networks to neural data
+Reinforcement learning 
 
 *Afternoon*  
-Recurrent Neural Networks
+Recurrent neural networks 
 
 **Day 4**  
 Symposium on current developments in cognitive computational neuroscience and AI
